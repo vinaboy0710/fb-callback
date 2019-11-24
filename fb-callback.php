@@ -1,7 +1,7 @@
 $fb = new Facebook\Facebook([
-  'app_id' => '{app-id}', // Replace {app-id} with your app id
-  'app_secret' => '{app-secret}',
-  'default_graph_version' => 'v2.2',
+  '2632212860169522' => '{app-id}', // Replace {app-id} with your app id
+  '133eead69318cef1a838274422606079' => '{app-secret}',
+  'default_graph_version' => 'v5.0',
   ]);
 
 $helper = $fb->getRedirectLoginHelper();
