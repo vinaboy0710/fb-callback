@@ -1,2 +1,0 @@
-# fb-callback
-fb-callback
